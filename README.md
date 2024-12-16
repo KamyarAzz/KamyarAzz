@@ -7,12 +7,12 @@ Currently pursuing my masters degree in Software Development, I love leveraging 
 
 - **Core Frontend Technologies**: HTML, CSS, JavaScript, TypeScript
 - **Frameworks & Libraries**: React, Next.js
-- **Advanced Tools**: Redux, React Query, React Router
+- **Advanced Tools**: Redux Toolkit, React Query, React Router
 - **UI/UX Design**: Responsive Design, TailwindCSS, Bootstrap, Sass
 
 ## 🚀 Projects
 
-Check out my website for my latest projects: (https://kamyarazz.ir/home)
+Check out my website for my latest projects: https://kamyarazz.ir
 
 ## 📫 Get in Touch
 
