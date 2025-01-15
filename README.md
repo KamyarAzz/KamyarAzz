@@ -12,7 +12,7 @@ Currently pursuing my masters degree in Software Development, I love leveraging 
 
 ## 🚀 Projects
 
-Check out my website for my latest projects: https://kamyarazz.ir
+Check out my website for my latest projects: https://kamyarazizi.vercel.app/
 
 ## 📫 Get in Touch
 
